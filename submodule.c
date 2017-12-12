@@ -6,6 +6,7 @@
 #include "dir.h"
 #include "diff.h"
 #include "commit.h"
+#include "pretty.h"
 #include "revision.h"
 #include "run-command.h"
 #include "diffcore.h"

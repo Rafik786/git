@@ -2,6 +2,7 @@
 #include "config.h"
 #include "refs.h"
 #include "commit.h"
+#include "pretty.h"
 #include "tree-walk.h"
 #include "attr.h"
 #include "archive.h"

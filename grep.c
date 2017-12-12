@@ -6,6 +6,7 @@
 #include "diff.h"
 #include "diffcore.h"
 #include "commit.h"
+#include "pretty.h"
 #include "quote.h"
 
 static int grep_source_load(struct grep_source *gs);

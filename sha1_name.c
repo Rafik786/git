@@ -2,6 +2,7 @@
 #include "config.h"
 #include "tag.h"
 #include "commit.h"
+#include "pretty.h"
 #include "tree.h"
 #include "blob.h"
 #include "tree-walk.h"

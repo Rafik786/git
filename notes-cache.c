@@ -1,6 +1,7 @@
 #include "cache.h"
 #include "notes-cache.h"
 #include "commit.h"
+#include "pretty.h"
 #include "refs.h"
 
 static int notes_cache_match_validity(const char *ref, const char *validity)

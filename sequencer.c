@@ -5,6 +5,7 @@
 #include "object.h"
 #include "commit.h"
 #include "sequencer.h"
+#include "pretty.h"
 #include "tag.h"
 #include "run-command.h"
 #include "exec_cmd.h"

@@ -2,6 +2,7 @@
 #include "config.h"
 #include "diff.h"
 #include "commit.h"
+#include "pretty.h"
 #include "tag.h"
 #include "graph.h"
 #include "log-tree.h"
